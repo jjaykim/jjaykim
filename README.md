@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jay Kim
 - 👀 I’m interested in Solving algorithm problem and doing project with others.
 - 🌱 I’m currently learning Computer Programming in Seneca College
-- 📫 How to reach me dnglglmm@gmail.com
-- 
+- 📫 How to reach me dnglglmm@gmail.com 
 
 <!---
 jjaykim/jjaykim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
