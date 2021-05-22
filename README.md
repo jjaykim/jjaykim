@@ -2,6 +2,7 @@
 - 👀 I’m interested in Solving algorithm problem and doing project with others.
 - 🌱 I’m currently learning Computer Programming in Seneca College
 - 📫 How to reach me dnglglmm@gmail.com 
+- 📝 Resume: https://my.indeed.com/p/jungjook-zbrboz1
 
 
 <!---
