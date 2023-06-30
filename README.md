@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pre-developer Jay Kim !
 - 👀 I’m interested in Solving algorithm problem and doing project with others.
 - 🌱 I’m currently learning Computer Programming in Seneca College
-- 📫 How to reach me dev.jjaykim@gmail.com 
-- 📝 Resume: https://www.linkedin.com/in/devjaykim/
+- 📫 How to reach me jungjoo.kim93@gmail.com 
+- 📝 Resume: [https://www.linkedin.com/in/devjaykim/](https://www.linkedin.com/in/jungjoo-kim/)
 
 
 <!---
